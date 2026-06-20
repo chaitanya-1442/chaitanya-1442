@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Chaitanya!
 
-<!--
-**chaitanya-1442/chaitanya-1442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning Android development and DSA.
 
-Here are some ideas to get you started:
+### 🔗 Find me here
+- 🐦 Daily updates on my SWE/DSA journey on [X](https://x.com/yourhandle)
+- ✍️ Write-ups on projects I build and new stacks I'm picking up on [Medium](https://medium.com/@yourhandle)
+- 🎥 Live streams while I code/grind on [YouTube](https://youtube.com/@yourchannel)
+- 💻 LeetCode: [LeetCode](https://leetcode.com/yourhandle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://github.com/chaitanya-1442/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-1442&show_icons=true&theme=tokyonight" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-1442&layout=donut-vertical&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5" width="48%" />
+</p>
