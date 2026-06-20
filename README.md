@@ -17,7 +17,7 @@ Currently learning Android development and DSA.
 
 
 ----
-[![](https://komarev.com/ghpvc/?username=chaitanya-1442&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=chaitanya-1442&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
 
 <!---->
 
