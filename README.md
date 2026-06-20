@@ -16,8 +16,6 @@ Currently learning Android development and DSA.
 ![](https://streak-stats.demolab.com/?user=chaitanya-1442&theme=dark&hide_border=false)<br/>
 
 
-----
-[![](https://komarev.com/ghpvc/?username=chaitanya-1442&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
 
 <!---->
 
