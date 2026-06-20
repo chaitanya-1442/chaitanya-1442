@@ -25,3 +25,13 @@ Currently learning Android development and DSA.
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-1442&layout=donut-vertical&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5" width="48%" />
 </p>
+----
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaitanya-1442/chaitanya-1442/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaitanya-1442/chaitanya-1442/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chaitanya-1442/chaitanya-1442/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
