@@ -4,8 +4,8 @@ Currently learning Android development and DSA.
 
 ### 🔗 Find me here
 - 🐦 Daily updates on my SWE/DSA journey on [X](https://x.com/yourhandle)
-- ✍️ Write-ups on projects I build and new stacks I'm picking up on [Medium](https://medium.com/@yourhandle)
 - 🎥 Live streams while I code/grind on [YouTube](https://youtube.com/@yourchannel)
+- ✍️ Write-ups on projects I build and new stacks I'm picking up on [Medium](https://medium.com/@yourhandle)
 - 💻 LeetCode: [LeetCode](https://leetcode.com/yourhandle)
 
 
