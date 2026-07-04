@@ -15,17 +15,10 @@ Currently learning Android development and DSA.
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=chaitanya-1442&theme=dark&hide_border=false)<br/>
 
+[![stats](https://github-stats-extended.vercel.app/api?username=chaitanya-1442&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 
-<!---->
 
-<p align="center">
-  <a href="https://github.com/chaitanya-1442/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=chaitanya-1442&show_icons=true&theme=tokyonight" width="48%" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-1442&layout=donut-vertical&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5" width="48%" />
-</p>
-----
 
-###
+
 
